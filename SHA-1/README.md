@@ -1,5 +1,5 @@
 # Çıktı
 ```
 Şifrelenmemiş Hali: furtsy örnek
-MD5 ile şifrelenmiş hali: 8e20d17ed504cfa1277438e72a45fd5d
+SHA1 ile şifrelenmiş hali: 326f1b1f3ddaeebeb4bf1ab59cf1d1cdeb8f65e0
 ```
