@@ -11,7 +11,7 @@ class SHA3 {
 const length = 256;
 const plainText = 'Furtsy denemee';
 
-console.log(`Şifrelenmemiş hali: ${plainText}`);
+console.log(`Metnin şifrelenmemiş hali: ${plainText}`);
 
 const sha3Object = new SHA3();
 const digest = sha3Object.digest(plainText, length);
