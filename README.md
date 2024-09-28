@@ -1,2 +1,2 @@
 # kriptoloji
-kriptoloji notlarım gibi bir şey
+kriptoloji notlarım
